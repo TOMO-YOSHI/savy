@@ -12,7 +12,7 @@ I can create an interactive UI using ReactJS with several technology, such as Ma
 I am able to handle multiple HTTP requests and display the results because of the well-understanding of the React component lifecycle and the concept of the component tree.
 
 I was responsible for creating [Waste Management Page](https://www.savy-app.ca/waste-management) and cloud server configuration in this project.
-![savy_ui](https://tomo-portfolio.s3-us-west-2.amazonaws.com/savy.png)
+<!-- ![savy_ui](https://tomo-portfolio.s3-us-west-2.amazonaws.com/savy.png) -->
 
 # System Architecture
 ![system_archtecture](https://tomo-portfolio.s3-us-west-2.amazonaws.com/savy-sa.png)
